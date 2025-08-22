@@ -10,8 +10,8 @@
 ## Dataset de Consumo de Energia Elétrica Residencial
 
 Este dataset contém **medições do consumo de energia elétrica em uma residência**, registradas a cada **um minuto**, durante quase **4 anos de monitoramento**. Além do consumo global, também estão disponíveis diversas grandezas elétricas e valores de submedição.
-
----
+  
+  
 
 ### 📊 Características do Conjunto de Dados
 
