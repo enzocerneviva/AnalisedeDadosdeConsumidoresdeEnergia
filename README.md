@@ -11,7 +11,7 @@ Este dataset contém **medições do consumo de energia elétrica em uma residê
 
 ---
 
-## 📊 Características do Conjunto de Dados
+### 📊 Características do Conjunto de Dados
 
 - **Tipo**: Multivariada, Séries Temporais  
 - **Área de estudo**: Física e Química  
@@ -20,14 +20,14 @@ Este dataset contém **medições do consumo de energia elétrica em uma residê
 
 ---
 
-## 📂 Estrutura
+### 📂 Estrutura
 
 - **Número de instâncias (linhas)**: `2.075.259`  
 - **Número de características (colunas)**: `9`  
 
 ---
 
-## ℹ️ Informações do Conjunto de Dados
+### ℹ️ Informações do Conjunto de Dados
 
 As medições foram coletadas em uma residência localizada em **Sceaux (7 km de Paris, França)**, entre **dezembro de 2006 e novembro de 2010 (47 meses)**.
 
@@ -43,18 +43,8 @@ As medições foram coletadas em uma residência localizada em **Sceaux (7 km de
 
 ---
 
-## ❓ Valores Faltantes
+### ❓ Valores Faltantes
 
 - **Sim**, aproximadamente **1,25%** das linhas possuem valores ausentes.  
-
----
-
-## 📌 Uso Sugerido
-
-Este dataset pode ser utilizado para:  
-- Modelos de **previsão de consumo energético**.  
-- **Análise de séries temporais**.  
-- Detecção de anomalias em padrões de consumo.  
-- Estudos de eficiência energética e submedições.  
 
 ---
