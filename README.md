@@ -2,9 +2,11 @@
 
 ### INSTRUÇÕES DA ENTREGA:  
 - A atividade pode ser desenvolvida em grupo.
-- Apenas um integrante submete o arquivo.
+- Apenas um integrante submete a atividade.
 - Enviar apenas o link do repositório.
 
+### ***Responavel pelo Trabalho***
+- Enzo Cerneviva | Rm: 563480
 ---
 
 ## Dataset de Consumo de Energia Elétrica Residencial
