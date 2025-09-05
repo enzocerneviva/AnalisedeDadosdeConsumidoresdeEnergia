@@ -1,2 +1,2 @@
-dataset/household_power_consumption.txt
-dataset/energydata_complete.csv
+./dataset/household_power_consumption.txt
+./dataset/energydata_complete.csv
